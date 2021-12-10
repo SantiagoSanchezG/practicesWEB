@@ -1,0 +1,1 @@
+Contiene las bases de react (comandos basicos) y sus reglas principales (jsx)
