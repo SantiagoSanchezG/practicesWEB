@@ -1,0 +1,23 @@
+body{
+    background: black;
+}
+.titulo{
+    color: rgb(163, 201, 163);
+    text-align: center;
+    margin-block-end: 50px;
+}
+#cursos{
+    display: flex;
+}
+.Imagen{
+    width: 200px;
+}
+.cursoss{
+    margin: 30px;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+#formCursos{
+    color:white;
+}
