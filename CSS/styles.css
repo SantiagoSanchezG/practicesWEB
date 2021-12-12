@@ -1,0 +1,51 @@
+/* Variables CSS (Custom properties) */
+:root{
+    --color: red;
+}
+
+h1,p{
+    color:var(--color);
+}
+
+ul{
+    color:var(--color);
+}
+
+.title{
+    color: green;
+}
+
+.description{
+    color: red;
+}
+
+.red{
+    color: red;
+}
+#title{
+    background: yellow;
+}
+
+.title.red{
+    color: saddlebrown;
+}
+
+div p{
+    color: blue;
+}
+
+*{
+    color: orange;
+}
+
+body > span{
+    color: firebrick;
+}
+
+div + div{
+    border: 1px solid;
+}
+
+[type^="te"]{
+    border: 1px solid red;
+}
