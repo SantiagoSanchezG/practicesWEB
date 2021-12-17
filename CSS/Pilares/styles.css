@@ -1,0 +1,35 @@
+h1{
+    color:red;
+}
+
+.title{
+    color:green;
+}
+
+#title{
+    color: blue;
+}
+
+h1.title{
+    color: yellow;
+}
+
+h1#title{
+    color: purple;
+}
+
+h1#title.title{
+    color: steelblue;
+}
+
+body > h1#title.title{
+    color: magenta;
+}
+
+#title.title.title2{
+    color: black;
+}
+
+h1{
+   color:brown !important;
+}
